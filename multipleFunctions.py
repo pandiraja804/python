@@ -40,6 +40,27 @@ class multiFunc:
     print("Subject4=",Subject4)
     print("Subject5=",Subject5)
     print("Total:",Total)
-    print("Percentage:",Percentage)    
+    print("Percentage:",Percentage)   
+
+
+    def triangleFun():
+    Height=32
+    Breadth=34
+    areaFormula = (Height*Breadth)/2
+    areaOfTriangle = areaFormula
+    Height1=2
+    Height2=4
+    Breadth=4
+    perimeterFormula=Height1+Height2+Breadth
+    perimeterTriangle= 10
+    print("Height:",Height)
+    print("Breadth:",Breadth)
+    print("Area formula:", "(Height*Breadth)/2")
+    print("Area of Triangle:",areaOfTriangle)
+    print("Height1:",Height1)
+    print("Height2:",Height2)
+    print("Breadth:",Breadth)
+    print("Perimeter formula:",perimeterFormula)
+    print("Perimeter of Triangle:",perimeterTriangle)   
     
     
